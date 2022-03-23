@@ -1,4 +1,4 @@
-# Meus estudos de programação
+# Meus estudos de programação 💻
 Projetos feitos para estudo
 
 ## Tipos:
