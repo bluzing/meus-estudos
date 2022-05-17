@@ -2,6 +2,6 @@
 Projetos feitos para estudo
 
 ## Tipos:
-- HTML
+- HTML, CSS
 - JavaScript
 - c/c++
